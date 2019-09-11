@@ -11,11 +11,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Bagian Atas 1
+## Bagian Atas 2
+### Bagian Atas 3
 
-- Bulleted
+- Bulat
 - List
 
 1. Numbered
